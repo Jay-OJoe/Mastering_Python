@@ -182,7 +182,7 @@ print(string_1.split())
 
 print(string_2)
 print(string_2.split())
+
 ![py7](ep502.png)
 ![py8](ep601.png)
-=======
->>>>>>> 5bde3625819a8532f0100bc2863a08f5a94c5c6d
+
