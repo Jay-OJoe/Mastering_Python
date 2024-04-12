@@ -139,24 +139,29 @@ print(numbers[-2])
 print(numbers[-3])
  
 **Modify an element**
+
 numbers[-1]=3
 print(numbers)
 
 **Add an element to the end**
+
 numbers.append(10)
 print(numbers)
 
 **remove an element from the list**
+
 numbers.pop()
 print (numbers)
 numbers.remove(1)
 print(numbers)
 
 **Get the length of the list**
+
 print("Print the length of the list")
 print(len(numbers))
 
 **Iterate through the list**
+
 print("iterate through the list")
 list_of_strings = ["1","2","3","4","5"]
 list_of_numbers = [float(x) for x in list_of_strings]
@@ -164,6 +169,7 @@ print(list_of_numbers)
 ![py6](ep401.png)
 
 **Executing string using split**
+
 
 
 string_1 = "I am a boy"                                  #this is a string
